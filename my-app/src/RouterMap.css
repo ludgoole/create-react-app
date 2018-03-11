@@ -1,0 +1,13 @@
+.tab {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+  list-style: none;
+  padding: 20px;
+}
+
+.tab li {
+  width: 100px;
+  list-style: none;
+}
